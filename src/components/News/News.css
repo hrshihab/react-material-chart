@@ -1,0 +1,7 @@
+.container{
+display: grid;
+
+margin-top: 50px;
+justify-items: center;
+ 
+}
